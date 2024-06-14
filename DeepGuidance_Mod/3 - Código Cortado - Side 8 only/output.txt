@@ -1,0 +1,12 @@
++ python -u test.py
+success load models: DG_Net_CHASEDB1
+This model is DG_Net_2_512
+1/8: | Acc: 0.947 | Se: 0.021 | Sp: 0.999 | Auc: 0.691 |  Background_IOU: 0.946528, vessel_IOU: 0.020780  |  time:0.026764631271362305
+2/8: | Acc: 0.947 | Se: 0.010 | Sp: 1.000 | Auc: 0.696 |  Background_IOU: 0.946905, vessel_IOU: 0.009690  |  time:0.02136969566345215
+3/8: | Acc: 0.939 | Se: 0.006 | Sp: 1.000 | Auc: 0.525 |  Background_IOU: 0.938535, vessel_IOU: 0.006190  |  time:0.021106958389282227
+4/8: | Acc: 0.937 | Se: 0.007 | Sp: 0.999 | Auc: 0.518 |  Background_IOU: 0.936634, vessel_IOU: 0.006558  |  time:0.021746397018432617
+5/8: | Acc: 0.926 | Se: 0.010 | Sp: 0.999 | Auc: 0.651 |  Background_IOU: 0.926235, vessel_IOU: 0.010110  |  time:0.022042036056518555
+6/8: | Acc: 0.941 | Se: 0.015 | Sp: 0.998 | Auc: 0.574 |  Background_IOU: 0.940547, vessel_IOU: 0.014940  |  time:0.0211484432220459
+7/8: | Acc: 0.928 | Se: 0.019 | Sp: 0.999 | Auc: 0.539 |  Background_IOU: 0.928179, vessel_IOU: 0.018927  |  time:0.021500587463378906
+8/8: | Acc: 0.929 | Se: 0.014 | Sp: 0.997 | Auc: 0.709 |  Background_IOU: 0.929025, vessel_IOU: 0.013291  |  time:0.02425098419189453
+Acc: 0.9366253  |  Se: 0.012822099 |  Sp: 0.99875885 |  Auc: 0.6129240693377178 |  Background_IOU: 0.9365735 |  vessel_IOU: 0.012560794 
